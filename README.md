@@ -3,7 +3,7 @@
 ### About Me:
 **Username:** @alex-is-busy-coding
 
-I'm passionate about **Artificial Intelligence**, **Geospatial Data Science**, and **Web Development**. 
+I'm passionate about **Artificial Intelligence**, **Geospatial Data Science**, **Web Development** and **Data Visualization**. 
 
 I enjoy exploring how these technologies can solve real-world problems, innovate industries, and improve our understanding of complex data.
 
@@ -41,6 +41,7 @@ I enjoy exploring how these technologies can solve real-world problems, innovate
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat&logo=qgis&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 
 ### Connect with Me:
 - 📧 Email: [alex.is.busy.coding@gmail.com](mailto:alex.is.busy.coding@gmail.com)
