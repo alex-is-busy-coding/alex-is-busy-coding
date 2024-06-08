@@ -3,6 +3,8 @@
 ### About Me:
 **Username:** @alex-is-busy-coding
 
+Hey there, my name is **Alex**.
+
 I'm passionate about **Artificial Intelligence**, **Geospatial Data Science**, **Web Development** and **Data Visualization**. 
 
 I enjoy exploring how these technologies can solve real-world problems, innovate industries, and improve our understanding of complex data.
@@ -11,6 +13,7 @@ I enjoy exploring how these technologies can solve real-world problems, innovate
 - 🤖 **AI:** Developing algorithms and models that think and learn like humans.
 - 🌍 **Geospatial Data Science:** Leveraging geographic data to build insightful and impactful solutions.
 - 💻 **Web Development:** Crafting responsive and user-friendly websites.
+- 📊 **Data Visualization:** I have a strong passion for turning complex data into compelling and insightful visual stories. Leveraging powerful tools, I create clear and interactive visualizations that enhance understanding and drive decision-making.
 
 ### I love working with:
 
@@ -42,6 +45,9 @@ I enjoy exploring how these technologies can solve real-world problems, innovate
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat&logo=qgis&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+
+### Explore My Visualizations:
+- 📊 **Tableau Public:** [View My Tableau Visualizations](https://public.tableau.com/app/profile/alexander.vassilev/vizzes)
 
 ### Connect with Me:
 - 📧 Email: [alex.is.busy.coding@gmail.com](mailto:alex.is.busy.coding@gmail.com)
