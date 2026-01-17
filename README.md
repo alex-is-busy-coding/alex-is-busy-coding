@@ -46,9 +46,6 @@ I enjoy exploring how these technologies can solve real-world problems, innovate
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat&logo=qgis&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 
-### Explore My Visualizations:
-- 📊 **Tableau Public:** [View My Tableau Visualizations](https://public.tableau.com/app/profile/alexander.vassilev/vizzes)
-
 ### Connect with Me:
 - 📧 Email: [alex.is.busy.coding@gmail.com](mailto:alex.is.busy.coding@gmail.com)
 
