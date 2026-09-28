@@ -1,14 +1,11 @@
 # Alexander Vassilev
 
-### M.S. Data Science Candidate @ Columbia University, Ex-Barclays ML Researcher
-**Quantitative Research | AI | Full-Stack Engineering**
+**AI engineer. I take LLM systems from prototype to production and measure whether they actually work.**
 
-Based in **New York, NY** | [LinkedIn](https://www.linkedin.com/in/alexander-vassilev/) | [Email](mailto:alex.is.busy.coding@gmail.com)
+Six years building ML and GenAI at Barclays in London. Now in New York, finishing an MS in Data Science at Columbia.
 
-### About Me
+[LinkedIn](https://www.linkedin.com/in/alexander-vassilev/) | [Email](mailto:alex.is.busy.coding@gmail.com)
 
-I am a graduate student at **Columbia University** with a passion for finding patterns in complex systems.
+### What I work on
 
-My journey started in **Geospatial Data Science** at **UCL**, where I learned to model non-stationary, correlated data in the physical world. I then moved to **Barclays**, where I engineered large-scale Data and GenAI systems for enterprise use.
-
-Now, I am bridging these worlds. I use my engineering background to build better research tools, and my statistical background to **model stochastic and high-dimensional systems**. I am specifically interested in **Quantitative Research**, using modern Deep Learning to uncover signals in alternative and unstructured datasets.
+I build the layer between a model and the people who depend on it: retrieval, agents, guardrails, evaluation and the serving infrastructure underneath. At Barclays that meant making generative AI work inside a global, heavily regulated bank and getting it into the hands of thousands of employees.
